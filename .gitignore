@@ -1,0 +1,32 @@
+# Contents / Assets
+/content
+/assets
+
+# Commands
+/commands/__pycache__
+/commands_private
+/utils/__pycache__
+
+# Testing
+/test
+/testing
+/.vscode
+TEST_*.py
+main-pp.py
+
+# IDEs
+config.cfg
+.replit
+*.lock
+*.toml
+.idea
+
+# venv
+/venv
+!Pipfile.lock
+
+# Misc
+.cache
+*.json
+*.db
+*.log
