@@ -8,11 +8,6 @@ name = "pypi"
 py-cpuinfo = "*"
 psutil = "*"
 aiohttp = "*"
-spotipy = "*"
-colorthief = "*"
-wikipedia = "*"
-flask = "*"
-url-cleaner = "*"
 
 [dev-packages]
 
